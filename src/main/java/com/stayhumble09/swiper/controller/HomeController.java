@@ -1,4 +1,4 @@
-package com.jjang051.swiper.controller;
+package com.stayhumble09.swiper.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
